@@ -1,0 +1,59 @@
+body{
+    margin: 0px;
+    
+}
+.upper{
+    background-color:#e0ebe8;
+}
+.oldh1{
+    margin: 0px;
+    color:seagreen;
+    font-size: 50px;
+    
+font-family: 'Sacramento', cursive;
+}
+.top{
+    margin-top: 30px;
+    text-align: center;
+}
+.up{
+    margin-left: 1100px;
+    margin-top: 100px;
+    margin-bottom: 0px;
+}
+.middle{
+    margin-left: 300px;
+    
+}
+p{
+    font-family: 'Merriweather', serif;
+    color: seagreen;
+    
+}
+.new{
+    margin-left: 550px;
+    margin-top: 100px;
+}
+h2{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: seagreen;
+
+}
+.para{
+    text-align: center;
+}
+.s{
+    color:silver;
+    text-align: center;
+}
+
+.newh1{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: seagreen;
+    font-size: 50px;
+}
+.last{
+    background-color:#e0ebe8;
+}
